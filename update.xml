@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
-      <title>1.2.0+1</title>
-      <sparkle:version>1.2.0</sparkle:version>
-      <sparkle:releaseNotesLink>https://bhavani-motors-releases.vercel.app/release-notes/1.1.0</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/kalpeshsapoliya/bhavani-motors-releases/releases/download/Release2/app-release.apk" sparkle:os="android" />
+      <title>1.2.1+1</title>
+      <sparkle:version>1.2.1</sparkle:version>
+      <sparkle:releaseNotesLink>https://bhavani-motors-releases.vercel.app/release-notes/1.2.1</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/kalpeshsapoliya/bhavani-motors-releases/releases/download/Release3/app-release.apk" sparkle:os="android" />
     </item>
   </channel>
 </rss>
