@@ -1,7 +1,7 @@
 {
-  "latestVersion": "2.3.0",
-  "latestBuildNumber": 4,
+  "latestVersion": "2.4.4",
+  "latestBuildNumber": 6,
   "forceUpdate": true,
-  "updateUrl": "https://github.com/kalpeshsapoliya/bhavani-motors-releases/releases/download/Release_2.3/app-arm64-v8a-release.apk",
+  "updateUrl": "https://github.com/kalpeshsapoliya/bhavani-motors-releases/releases/download/Release_2%2C4%2C4/app-arm64-v8a-release.apk",
   "message": "A new version is available. Please update to continue."
 }
